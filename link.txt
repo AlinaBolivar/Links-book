@@ -1,0 +1,20 @@
+Link de github: https://github.com/Cristhian-Andres/Books-links.git
+1. http://localhost:4000/
+2. http://localhost:4000/signin 
+Get
+Pos
+{
+    "id": "213", 
+    "username": "User123", 
+    "password": "1q2w3e4r12", 
+    "fullname": "Angely"
+}
+2. http://localhost:4000/signup
+Get
+Post
+{
+    "id": "213", 
+    "username": "User123", 
+    "password": "1q2w3e4r12", 
+    "fullname": "Angely"
+}
